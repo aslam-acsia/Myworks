@@ -1,0 +1,11 @@
+{
+"type":2,"modelyear":2000,"bodytype":"suv","colour":"red","platenumber":"kl34566654"
+}
+
+
+
+
+
+{
+"name":"aslam","age":27,"phone":898544445,"address":"kerala","email":"asdfgffgg"
+}
