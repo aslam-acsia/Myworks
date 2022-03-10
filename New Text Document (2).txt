@@ -1,5 +1,5 @@
 {
-"type":2,"modelyear":2000,"bodytype":"suv","colour":"red","platenumber":"kl34566654"
+"type":2,"modelyear":2000,"bodytype":"suv","colour":"blue","platenumber":"kl34566654"
 }
 
 
